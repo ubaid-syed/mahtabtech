@@ -245,7 +245,7 @@ const projects = {
     ],
     description:
       "The user designed a dynamic, user-friendly website for the Kormendy Trott Team to enhance their online presence, featuring property listings, a search bar, and sections for their podcast and blog. The site includes a Get Your FREE Property Valuation feature and accessible contact forms to foster client engagement.",
-    liveLink: "https://www.realestateplatform.com/",
+    liveLink: "https://kormendytrott.com/",
   },
   "Multisite WordPress Solution Website": {
     images: [
@@ -255,7 +255,7 @@ const projects = {
     ],
     description:
       "The user developed a multisite WordPress website for Cloud9Spa, featuring six locations with unique pages for each and an integrated booking system for lead generation. Custom functionality was added for location-specific content and SEO optimization, enhancing local search visibility while maintaining consistency across all locations.",
-    liveLink: "https://www.multisiteplatform.com/",
+    liveLink: "https://cloud9.spa/",
   },
   "Comprehensive Healthcare Platform Website": {
     images: [
@@ -265,7 +265,7 @@ const projects = {
     ],
     description:
       "The user developed a user-friendly WordPress website for Solutionreach, highlighting key features like appointment reminders, two-way texting, and online scheduling. The site showcases their Revenue Cycle Messaging™ solution, offering tailored content for dental, vision, and medical practices, with valuable resources and a responsive, interactive design.",
-    liveLink: "https://www.healthcareplatform.com/",
+    liveLink: "https://www.solutionreach.com/",
   },
   "Interactive Website for Studio": {
     images: [
@@ -275,7 +275,7 @@ const projects = {
     ],
     description:
       "The user developed a custom WordPress website for Skylight Studios, showcasing their venues and collaborations with brands like Hermès and Sony. The site features interactive animations and custom JavaScript elements, with key sections like Venues and Services highlighting their expertise in placemaking and cultural experiences.",
-    liveLink: "https://www.studiowebsite.com/",
+    liveLink: "https://byskylight.com/",
   },
   "Medical SPA Website": {
     images: [
