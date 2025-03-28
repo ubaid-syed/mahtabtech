@@ -1825,7 +1825,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .info-content .name {
     white-space: nowrap;
     text-align: center;
-    font-size: 23px;
+    font-size: 15px;
   }
 
   .info-content .title { margin: auto; }
@@ -1846,7 +1846,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .contact-info :is(.contact-link, time, address) {
-    --fs-7: 14px;
+    --fs-7: 10.2px;
     font-weight: var(--fw-300);
   }
 
